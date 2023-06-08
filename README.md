@@ -1,6 +1,5 @@
 # A Visual History of Nobel Prize Winners
 
-![Nobel Prize](https://upload.wikimedia.org/wikipedia/commons/0/05/Nobel_Prize.png)
 
 This repository contains the Jupyter Notebook file "A Visual History of Nobel Prize Winners.ipynb", which presents a visual analysis of the history of Nobel Prize winners. The notebook explores the Nobel Prize dataset to gain insights into the distribution of laureates across different categories, countries, genders, and time periods.
 
